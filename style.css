@@ -4,5 +4,32 @@ body {
 }
 
 #page {
+    box-sizing: border-box;
+    width: 1280px;
+    padding: 65px;
     background-color: #F5F4F0;
+    height: 3279px;
+    margin: 80px auto 80px;
 }
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #E1624F;
+}
+
+image {
+    width: 1120px;
+    height: 642px;
+    border-radius: 28px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* img {
+    width: 1120px;
+    height: 350px;
+    border-radius: 28px;
+    display: block;
+    margin: 0 auto;
+} */
